@@ -1,0 +1,6 @@
+node_modules/
+public/bundle/
+*.log
+package-lock.json
+Dockerfile
+.dockerignore
